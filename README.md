@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente faço estágio em TI
 - 🌱 Estudando Java
-- 😄 Pronouns: ela/dela
+- 😄
 
 <div align="center">
   <a href="https://github.com/hellenbaldo">
